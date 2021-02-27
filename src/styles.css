@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+input {
+  margin-bottom: 8px;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #000;
+  text-align: center;
+}
+.over {
+  color: #ccc;
+}
+.simple {
+  color: rgb(255, 111, 97);
+  /* background-color: rgba(255, 111, 97, 0.25); */
+}
